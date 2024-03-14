@@ -27,7 +27,9 @@
 *   active_studs.csv - файл с информацией о пользователях, которые зашли на платформу в дни проведения эксперимента. 
 *   checks.csv - файл с информацией об оплатах пользователей в дни проведения эксперимента. 
 </details>
+
 ---
+
 ### Стек:
 ![Python](https://img.shields.io/badge/Python-%23AFEEEE?style=for-the-badge&logo=Python&logoColor=yellow)
 ![Pandas](https://img.shields.io/badge/pandas-%23AFEEEE?style=for-the-badge&logo=pandas&logoColor=white)
