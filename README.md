@@ -31,7 +31,7 @@
 ### Имеются ли различия в показателях и с чем они могут быть связаны?
 
 < div align='right'> 
-![image](https://github.com/KinderDs/ExampleA-B/assets/163444205/8bd1c433-4d25-4d3f-9842-e8b23230026d)
+<img src="https://github.com/KinderDs/ExampleA-B/assets/163444205/8bd1c433-4d25-4d3f-9842-e8b23230026d">
 </div>
 
 *   Являются ли эти различия статистически значимыми?
