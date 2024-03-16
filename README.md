@@ -36,6 +36,11 @@
    <img src="https://github.com/KinderDs/ExampleA-B/assets/163444205/8bd1c433-4d25-4d3f-9842-e8b23230026d" width ="500" height="350">
 </div>
 
+<div align='centre'>
+   <img src="https://github.com/KinderDs/ExampleA-B/assets/163444205/4c03153b-80b5-43fc-a993-94fcfa780764" width ="500" height="350">
+</div>
+
+
 *   Являются ли эти различия статистически значимыми?
   
 *  Стоит ли запускать новую механику на всех пользователей?
