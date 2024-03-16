@@ -37,7 +37,7 @@
 </div>
 
 <div align='centre'>
-   <img src="https://github.com/KinderDs/ExampleA-B/assets/163444205/4c03153b-80b5-43fc-a993-94fcfa780764" width ="500" height="350">
+   <img src="https://github.com/KinderDs/ExampleA-B/assets/163444205/4c03153b-80b5-43fc-a993-94fcfa780764" width ="800" height="350">
 </div>
 
 
